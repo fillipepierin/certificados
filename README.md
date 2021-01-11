@@ -1,6 +1,6 @@
 # Lista de certificados de cursos de Fillipe Pierin
 
-**Lista de certificados de cursos realizados**.
+**Lista de certificados de cursos realizados**
 * Excel Básico
 * Excel Avançado
 * Inglês Intermediário
